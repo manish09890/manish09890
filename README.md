@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @manish09890
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... c language
+- 💞️ I’m looking to collaborate on ... any project
+- 📫 contact me mk8802476@gmail.com
